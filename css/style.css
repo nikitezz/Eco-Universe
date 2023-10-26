@@ -836,3 +836,12 @@
       background: repeating-linear-gradient(45deg, #40a110 0 30px, #07651d 0 40px, rgba(255, 255, 255, 0.3) 0 40px) right/200% 100%;
     }
   }
+
+  @media (max-width:480px)  { 
+    .loader{
+        margin-top: 30%;
+    }
+    .loaderBar{
+        margin-top: 40%;
+    }
+  }
