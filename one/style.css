@@ -161,6 +161,10 @@ button:hover .button-text {
     .shadow{
         font-size: 40px;
     }
+    .text{
+        margin-top: 20%;
+    }
+
     img{
         width: 150px;
         height: 150px;
