@@ -156,3 +156,13 @@ button:hover .button-text {
     text-align: center;
 }
 
+
+@media (max-width:480px)  { 
+    .shadow{
+        font-size: 40px;
+    }
+    img{
+        width: 150px;
+        height: 150px;
+    }
+  }
