@@ -1,3 +1,9 @@
+
+body{
+  background: rgb(101,203,213);
+background: linear-gradient(90deg, rgba(101,203,213,1) 0%, rgba(48,165,177,1) 28%, rgba(120,186,188,1) 67%, rgba(143,241,190,1) 100%);
+}
+
 .loader {
     --duration: 3s;
     --primary: rgb(51, 249, 127);
@@ -829,7 +835,7 @@
   
   @keyframes lightEffect {
     0%, 20%, 40%, 60%, 80%, 100% {
-      background: repeating-linear-gradient(45deg, #40a110 0 30px, #07651d 0 40px) right/200% 100%;
+      background: repeating-linear-gradient(45deg, #40a110 0 30px, #228339 0 40px) right/200% 100%;
     }
   
     10%, 30%, 50%, 70%, 90% {
@@ -838,6 +844,7 @@
   }
   .helpBar{
     text-align: center;
+    color: wheat;
     margin-top: 1%;
     font-family: 'Courier New', Courier, monospace;
   }
