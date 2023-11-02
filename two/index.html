@@ -19,9 +19,7 @@
                             <li class="nav-item"><a href="" class="nav-link">Отзывы</a></li>
                             <li class="nav-item"><a href="" class="nav-link">Личный кабинет</a></li>
                     </ul> -->
-                    <button class="nav-button" id="nav-btn">
-                        <img id="nav-button-img" src="/img/nav-open.svg" alt="">
-                    </button>
+                    
                 </nav>
             </div>
         </div>
@@ -33,19 +31,6 @@
             </div>
         </div>
     </div>
-    <script>
-        const nav = document.querySelector('#nav');
-        const navBtn = document.querySelector('#nav-btn');
-        const navBtnImg = document.querySelector('#nav-button-img');
-
-        navBtn.onclick =() =>{
-            if(nav.classList.toggle('open')){
-                navBtnImg.src = "/img/nav-close.svg";
-            }else{
-                navBtnImg.src = "/img/nav-open.svg";
-            }
-        }
-    </script>
 </body>
 </html>
 
