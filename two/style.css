@@ -361,12 +361,13 @@ body{
   }
   .globe{
     width: 250px;
+    height: 250px;
   }
   .text-title{
     text-align: center;
   }
   .text-introduction{
-    width: 300px;
+    width: 350px;
     text-align: center;
   }
 } 
@@ -380,12 +381,13 @@ body{
   }
   .globe{
     width: 250px;
+    height: 250px;
   }
   .text-title{
     text-align: center;
   }
   .text-introduction{
-    width: 300px;
+    width: 350px;
     text-align: center;
   }
 }
