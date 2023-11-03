@@ -354,6 +354,20 @@ body{
 @media (max-width:1230px){
   .logo{
     font-size: 30px;
+    margin-top: -5%;
+  }
+  .btn{
+    margin-left: 10%;
+  }
+  .globe{
+    width: 250px;
+  }
+  .text-title{
+    text-align: center;
+  }
+  .text-introduction{
+    width: 300px;
+    text-align: center;
   }
 } 
  @media (max-width:700px) {
@@ -363,5 +377,15 @@ body{
   }
   .btn{
     margin-left: 10%;
+  }
+  .globe{
+    width: 250px;
+  }
+  .text-title{
+    text-align: center;
+  }
+  .text-introduction{
+    width: 300px;
+    text-align: center;
   }
 }
