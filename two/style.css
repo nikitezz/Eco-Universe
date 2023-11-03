@@ -359,6 +359,7 @@ body{
  @media (max-width:700px) {
   .logo{
     font-size: 30px;
+    margin-top: -5%;
   }
   .btn{
     margin-left: 10%;
