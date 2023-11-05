@@ -377,6 +377,8 @@ body{
   }
   .text-title{
     text-align: center;
+    font-size: 25px;
+    width: 370px;
   }
   .text-introduction{
     width: 370px;
@@ -398,6 +400,8 @@ body{
   .text-title{
     text-align: center;
     font-size: 25px;
+    width: 370px;
+
   }
   .text-introduction{
     width: 370px;
