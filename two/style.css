@@ -397,6 +397,7 @@ body{
   }
   .text-title{
     text-align: center;
+    font-size: 25px;
   }
   .text-introduction{
     width: 370px;
