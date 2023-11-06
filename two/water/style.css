@@ -154,18 +154,19 @@ body{
     img{
         width: 200px;
         height: 200px;
+        display: none;
     }
     .btn{
       margin-left: 10%;
     }
     .text-title{
-      text-align: center;
+      text-align: justify;
       font-size: 25px;
       width: 370px;
   
     }
     .text-introduction{
       width: 370px;
-      text-align: center;
+      text-align: justify;
     }
   }
